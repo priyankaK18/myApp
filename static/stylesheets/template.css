@@ -1,0 +1,13 @@
+body  {
+    min-height:100%;
+    background-image: url("https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260"), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3));
+    background-blend-mode: overlay;
+    background-size:cover
+ }
+ 
+ .welcome {
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+    font-size: 3rem;
+    color: aliceblue;
+ }
+ 
